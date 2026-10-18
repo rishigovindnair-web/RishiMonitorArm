@@ -48,7 +48,3 @@ PETG, 0.2 mm layers, no supports, about 1.35 kg total. Desk clamp: 8 walls, 40% 
 6. Bolt the bracket to the tilt block with the M8 × 30, add the M5 rotation lock, then screw the bracket to the monitor with four M4 × 12 screws.
 7. Hang the tilt block in the yoke on the M8 × 70, stacked: washer, ear, rubber, tongue, rubber, ear, 3 disc springs (alternating), washer, lock nut. Tighten until it holds 5° forward.
 8. Leave it at full reach for 24 hours, then retighten every nut.
-
-## Checks
-
-No parts collide in 18 tested positions. At full reach the pole sees about a ninth of its yield strength, and the arm droops about 15 mm.
