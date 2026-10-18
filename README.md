@@ -6,8 +6,6 @@ A 3D-printed desk-clamp arm for the Sceptre C32 240 Hz curved monitor. It screws
 
 ## Parts
 
-Prices checked October 2026, Amazon at Prime prices.
-
 | Item | Store | Price |
 |---|---|---|
 | [JAYO PETG, 1.1 kg](https://www.amazon.com/dp/B0DCZ9ZLP9) | Amazon | $9.99 |
