@@ -46,3 +46,14 @@ PETG, 0.2 mm layers, no supports, about 1.35 kg total. Desk clamp: 8 walls, 40% 
 6. Bolt the bracket to the tilt block with the M8 × 30, add the M5 rotation lock, then screw the bracket to the monitor with four M4 × 12 screws.
 7. Hang the tilt block in the yoke on the M8 × 70, stacked: washer, ear, rubber, tongue, rubber, ear, 3 disc springs (alternating), washer, lock nut. Tighten until it holds 5° forward.
 8. Leave it at full reach for 24 hours, then retighten every nut.
+
+<img width="248" height="318" alt="Screenshot 2026-10-17 011139" src="https://github.com/user-attachments/assets/b9a2394c-b119-4050-b101-676792e8a287" />
+<img width="265" height="213" alt="Screenshot 2026-10-17 011133" src="https://github.com/user-attachments/assets/e093a8f8-3ed8-401a-bf53-ea8483bcc10a" />
+<img width="238" height="192" alt="Screenshot 2026-10-17 011128" src="https://github.com/user-attachments/assets/117f0157-5e5a-42e0-a9b8-bc3885883be2" />
+<img width="7" height="2" alt="Screenshot 2026-10-17 011121" src="https://github.com/user-attachments/assets/eaf64e17-2193-418f-abb3-709a939590ab" />
+<img width="141" height="267" alt="Screenshot 2026-10-15 013841" src="https://github.com/user-attachments/assets/f4dad409-674c-41d5-a231-6154d3d03ff9" />
+<img width="7" height="8" alt="Screenshot 2026-10-15 013833" src="https://github.com/user-attachments/assets/814281b6-5048-4ef0-88bf-833f1072c9ef" />
+<img width="582" height="287" alt="Screenshot 2026-10-14 015717" src="https://github.com/user-attachments/assets/9e1b737b-29b3-49db-bad0-1de5a1325467" />
+<img width="288" height="278" alt="Screenshot 2026-10-14 015713" src="https://github.com/user-attachments/assets/1024de56-c934-4487-9d96-fda065867e87" />
+<img width="417" height="260" alt="Screenshot 2026-10-14 015709" src="https://github.com/user-attachments/assets/c7118428-3b54-47e6-96f7-aa615a840909" />
+
